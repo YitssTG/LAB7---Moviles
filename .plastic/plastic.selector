@@ -1,0 +1,4 @@
+repository "xd/xd@4674085459939@cloud"
+  path "/"
+    br "/main"
+    co "/main"
